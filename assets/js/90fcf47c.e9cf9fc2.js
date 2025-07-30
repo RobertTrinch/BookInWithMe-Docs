@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookinwithme=self.webpackChunkbookinwithme||[]).push([[8365],{3163:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/BookInWithMe-Docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
