@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://docs.bookinwith.me/BookInWithMe-Docs/blog</id>
+    <id>https://docs.bookinwith.me/blog</id>
     <title>Book In With Me - Docs Blog</title>
     <updated>2025-07-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://docs.bookinwith.me/BookInWithMe-Docs/blog"/>
+    <link rel="alternate" href="https://docs.bookinwith.me/blog"/>
     <subtitle>Book In With Me - Docs Blog</subtitle>
-    <icon>https://docs.bookinwith.me/BookInWithMe-Docs/img/favicon.ico</icon>
+    <icon>https://docs.bookinwith.me/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome to the Blog!]]></title>
-        <id>https://docs.bookinwith.me/BookInWithMe-Docs/blog/2025-07-30-welcome</id>
-        <link href="https://docs.bookinwith.me/BookInWithMe-Docs/blog/2025-07-30-welcome"/>
+        <id>https://docs.bookinwith.me/blog/2025-07-30-welcome</id>
+        <link href="https://docs.bookinwith.me/blog/2025-07-30-welcome"/>
         <updated>2025-07-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to the Book In With Me blog! This will be the spot where we keep you updated about anything!]]></summary>
         <content type="html"><![CDATA[<p>Welcome to the Book In With Me blog! This will be the spot where we keep you updated about anything!</p>
