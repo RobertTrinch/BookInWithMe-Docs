@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Book In With Me - Docs',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'The Book In With Me documentation site, learn how to use Book In With Me, and get the latest updates!',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -73,17 +73,17 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Book In With Me',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Book In With Me Logo',
+        src: 'img/logo.svg', //todo: logo
       },
       items: [
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Wiki',
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
@@ -127,7 +127,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Book In With Me. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Book In With Me.`,
     },
     prism: {
       theme: prismThemes.github,
