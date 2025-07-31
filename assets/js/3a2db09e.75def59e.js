@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookinwithme=self.webpackChunkbookinwithme||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"Updates","permalink":"/blog/tags/updates","description":"Updates towards Book In With Me","count":2}]}')}}]);

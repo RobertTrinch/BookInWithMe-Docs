@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.bookinwith.me/blog</id>
     <title>Book In With Me - Docs Blog</title>
-    <updated>2025-07-30T00:00:00.000Z</updated>
+    <updated>2025-07-31T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.bookinwith.me/blog"/>
     <subtitle>Book In With Me - Docs Blog</subtitle>
     <icon>https://docs.bookinwith.me/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Availability Overrides, finally!]]></title>
+        <id>https://docs.bookinwith.me/blog/2025-07-31-availability-overrides-finally</id>
+        <link href="https://docs.bookinwith.me/blog/2025-07-31-availability-overrides-finally"/>
+        <updated>2025-07-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You read that right, Availability Overrides are now working! This was a feature I've been putting off for a while thinking it would take forever, but it wasn't too bad!]]></summary>
+        <content type="html"><![CDATA[<p>You read that right, Availability Overrides are now working! This was a feature I've been putting off for a while thinking it would take forever, but it wasn't too bad!</p>
+<p>Availability overrides are now available in the <a href="https://bookinwith.me/dashboard/availability/overrides" target="_blank" rel="noopener noreferrer">Availability section on your Dashboard</a>.</p>
+<p>You click on any date on the calendar and it will tell you if you have an override on that day, if you don't, you can create one! And if you do, you can delete it! Then at the bottom you can view all of your overrides in the future at a glance and delete them. Have a look at the image below!</p>
+<p><img decoding="async" loading="lazy" alt="Overrides Page Preview" src="https://docs.bookinwith.me/assets/images/overrides-page-37845671c15693203227219a2379b347.png" width="1010" height="889" class="img_ev3q"></p>
+<p>If you run into any issues with this, or in general, don't be afraid to shoot me an email at <a href="mailto:hello@bookinwith.me" target="_blank" rel="noopener noreferrer">hello@bookinwith.me</a>! Suggestions and feedback are also just as welcome!</p>]]></content>
+        <author>
+            <name>Robert</name>
+            <uri>https://github.com/roberttrinch</uri>
+        </author>
+        <category label="Updates" term="Updates"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome to the Blog!]]></title>
         <id>https://docs.bookinwith.me/blog/2025-07-30-welcome</id>
