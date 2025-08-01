@@ -1,41 +1,57 @@
-# Website
+# 📚 Book In With Me — Documentation
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+![Docusaurus](https://img.shields.io/badge/Built%20with-Docusaurus-2f71ef?style=flat-square&logo=docusaurus&logoColor=fff)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)
 
-## Installation
+Welcome to the official documentation for **Book In With Me** — the ultimate platform for service providers and clients to connect, book, and upgrade their business. Whether you're setting up your page, looking for help, or want to contribute to our docs, you're in the right place!
 
-```bash
-yarn
-```
+---
 
-## Local Development
+## 🧭 Table of Contents
 
-```bash
-yarn start
-```
+- [Getting Started](#-getting-started)
+- [How to Contribute](#-how-to-contribute)
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+---
 
-## Build
+## 🚀 Getting Started
 
-```bash
-yarn build
-```
+> This site is powered by [**Docusaurus**](https://docusaurus.io/).
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
+To get started, clone the repo, install dependencies and run the local server:
 
 ```bash
-USE_SSH=true yarn deploy
+git clone https://github.com/RobertTrinch/BookInWithMe-Docs.git
+cd BookInWithMe-Docs
+npm install
+npm run start
 ```
 
-Not using SSH:
+Once it’s running, your local version should be running on [http://localhost:3000](http://localhost:3000) or whichever port is being used.
 
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
+---
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## 🫶 How to Contribute
+
+### Steps to contribute:
+1. **Fork** the repo  
+2. Create a new branch  
+   ```bash
+   git checkout -b my-changes
+   ```
+3. Make your edits or add new content. 
+4. Commit your changes  
+   ```bash
+   git commit -m "Added new pages to the docs/etc."
+   git push origin my-changes
+   ```
+5. Open a pull request with info about what you've added!
+
+### You can help with:
+- Fixing typos or grammar 💬  
+- Adding walkthroughs or FAQs 📚  
+- Styling & layout improvements 🎨  
+- Writing about new features 🚀  
+- Whatever you think it needs!
+
+> Rule of thumb: **If it helps, it belongs.**
