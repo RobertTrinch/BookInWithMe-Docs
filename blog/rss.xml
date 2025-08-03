@@ -4,10 +4,34 @@
         <title>Book In With Me - Docs Blog</title>
         <link>https://docs.bookinwith.me/blog</link>
         <description>Book In With Me - Docs Blog</description>
-        <lastBuildDate>Thu, 31 Jul 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Aug 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Changelog - Free Tier and more]]></title>
+            <link>https://docs.bookinwith.me/blog/2025-08-03-changelog-free-tier</link>
+            <guid>https://docs.bookinwith.me/blog/2025-08-03-changelog-free-tier</guid>
+            <pubDate>Sun, 03 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Free tier, pricing, and loads of changes! Let's talk about them, but also a little milestone! We hit 200 commits total on the GitHub repository for Book In With Me!]]></description>
+            <content:encoded><![CDATA[<p>Free tier, pricing, and loads of changes! Let's talk about them, but also a little milestone! We hit 200 commits total on the GitHub repository for Book In With Me!</p>
+<p><img decoding="async" loading="lazy" alt="200 Commits on GitHub" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAAAjCAYAAACaX1R3AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAZgSURBVGhD7dlhTBvnHcfxb9dpllLJuNM8VcpFF81jUSwlB8nUOkMziBdEXWugWtasDRgFqqiQpCKQDuSkzZoUVJYMUAlkJQ1aTGiaJVMAt6ypuoFdkXpLPGSWOiJWIk540jRe5HwvprjStL0wdsxhYkghqqX7SEjoef73COn33PM89/CYea3lf+iy0re0DbrsoYeXxfTwspgeXhbTw8tienhZTA8vi+nhZTE9vCz22HJvWEwmE5slCVEUEcX1KIoCwORkEHlaRpantY/oVsmywrMXFmK3FwIgy9PIskxOjgkASZIA8Pm8+Lzeec/pVkfG8Pbtf41z/W4cpaWI4vpFw0m8kXZ7IYqicLLrXW2JboU9/oTxu7/WNqYq2b6dp595BpPJRL/bzWQwqC0B4N69e8iyTDSqIEl55JhM3Jqa0pbpVtCSDyyKohCNxve3hEqnM7lcJgSDQXw+b3JP1Cr61VlGA1OEw1OEb17jk3d3ISQ6N9VyenQy2Tf0RnyJthbXcuT9y1wNThHor04dLoWAw5UydniKwMUmtmnLHoWCek6f76W5WNuxspYcnslkoqLSOa9NFNeTY4rveakmg8HkMqpVYvshM4NHaXj9KOdugOXZOo6UAwg0t9RS9MQEPZVVdFwHq/NN2gugorGe0nVGDGu0oyUI1Pz+Au27bRj/9Sk9xw7ScSEEohWrtvRRyMtnS56NLT8GcNA6fI0bH7doq762jOG9fexo8mep+5iiKMjyNKIoarvoObAT57EBPIMDvDUSQuU7GJ4ExFqKNhqIeA/R4ffT8zs/EQSsz4LruQ1s3e5nVjtYQkE9FQXfQ/W3UfbcfjrcHnoOv0DjBxPEtLWPQncVWzdu5sXfAJgR1hoxfFtb9PVlDC+TxGlTS5ZlbRMAETmS/L3IKmDkK2J3gWIBMyozobn+8QlmVDCLiy2T923bmY9ABO/hPu6PDmOdnZwDEHfR/vG15HIa/tsI7S/HF+vWK1OEAx9ysn883hf4kOaXW/gkGK+9MdpFDQDVuANThK/00v5ZfGm/MdpFzStnuXpTs0y/M0I4fA337mrcgSa2GYEf7CAcHqEVgZr3/kxg7pnw1V4qUv7m5cgYnqO0bMG+liDL00iSxL79r2EvjO9PCTk5JkxpltQE696z/LZcQPWf4a1Bbe/yWJ80ghrhy7TzxUZrTxMOcRbP4SrKKtu4ogo4mk5QlygxWjAGGnF2+lGN+dS48gkdraJhMIJBKKHUlTLcWgFO7aFh8DYIJTTvMXBxdxUd11WMeaVUl6fU0odzaxtfqMCdS+Tm/gyXs4W6YjORD14gN3cDuT/ZE59gDyFjeCZTTtq9C8AzPIxneIhoVEm7RC72wV70xmX6623ErvfRWDn/bXkY//7PV2A0Y9F2AOBgy48MzI6fouGCn5C/j30fhYitsWDbPVeihvB2+vmi28uXKnDHS8Mf/Xhe93MbMBhThvvnxFzfBBFgdmIgvsx/mrIFPIg3RCRmwLrzNEPd9fxik7Zg6TKGl/ohrqUoCsFgkH63m363e16fJEkoSnReG4DgusxJp4XZwYO8+FIbY4mOWyoqRr6/Ye7sWZDPOiPMyn0pT6fnmZwhhoVtx+e//alisTQ75n+1DXFqNE3tItS7Hm3Tg8ltlL10iB7vDEZbLa3nL9O8cN4vScbwEidHR2mZtmtRiSX0c5/2Y97BkeetcNND9zjklztwlDso2gSMDzAhg6W4hQPFhRx41YYQCzF2WjNEOt2dDN+KIZR3MXq+hbpyBxWNJ/jDxS4q8PD3OyAUv0n7ThtWWzUnn7diuBvCO3++rZIQqgqsMeJIhPSPS3Ts/SV7/3QbDALWxefcA2UMT1EUfD4vkiQt2NfSEcX12O2F+Hze5L3nfTbWmcGwcQftx08kf5p3AfhpaB0ghI2693qp26wy1rmfd9LuY1p+XHWHOOOfxZi3gwPHT3DklRIsBpUoflwHOxmbNeN4+yxD/U0UGUKca67ijHaYVeHn0l9vE3uqhPbPRmh19iYPOEM/NxP5yylcDzmJMl6PMfeN91N7IZIk4fN5mQwGFwSTej0my9MLllHdyltSeKS5u4xGFRQlmjysJG5TFrv71K28JYeX8KB/CaV7I3WrZ9nh6b45Mh5YdN9cenhZTA8vi+nhZTE9vCymh5fF9PCymB5eFvs/AwF7Tex6nu0AAAAASUVORK5CYII=" width="111" height="35" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="free-tier">Free Tier<a href="https://docs.bookinwith.me/blog/2025-08-03-changelog-free-tier#free-tier" class="hash-link" aria-label="Direct link to Free Tier" title="Direct link to Free Tier">​</a></h3>
+<p>You can now use Book In With Me without a subscription, completely free of charge without any card details either.  This has been in the plans for a while and now it's here! Now, there is still a paid subscription available which provides way more features, but the free tier gives you a nice start towards your business, or little preview of what we offer!</p>
+<blockquote>
+<p>You can view all the pricing details and feature separation at the <a href="https://bookinwith.me/pricing" target="_blank" rel="noopener noreferrer">Pricing section</a>.</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="cheaper-subscription">Cheaper Subscription<a href="https://docs.bookinwith.me/blog/2025-08-03-changelog-free-tier#cheaper-subscription" class="hash-link" aria-label="Direct link to Cheaper Subscription" title="Direct link to Cheaper Subscription">​</a></h3>
+<p>This changelog couldn't get any better, we've decided to knock down the price from 6 euro to a whopping <strong>€4.75 a month</strong>. Our goal with this to make these features more available for people while still being able to maintain this project financially!</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dashboard-upgrades">Dashboard Upgrades<a href="https://docs.bookinwith.me/blog/2025-08-03-changelog-free-tier#dashboard-upgrades" class="hash-link" aria-label="Direct link to Dashboard Upgrades" title="Direct link to Dashboard Upgrades">​</a></h3>
+<p>We've made the dashboard more sleek, being able to view more bookings at a time, and just overall improvements. Including dark mode all over the site! We've also added these pots at the top with some basic stats of your day, let us know what you'd like to see on those pots, we're looking to add a few more.</p>
+<blockquote>
+<p><img decoding="async" loading="lazy" alt="Dashboard new preview" src="https://docs.bookinwith.me/assets/images/image-1-f3d54ef0735a310f7bcaab140c4f5482.png" width="1174" height="861" class="img_ev3q"> (I didn't make the test data look nice apologies)</p>
+</blockquote>
+<p>Some other minor changes, we've upgraded some parts of the site, such as the sign in page and more, and hopefully registering process is now fully smooth!</p>
+<p>That's all for now, as usual, let us know if you run into any issues! Enjoy!</p>]]></content:encoded>
+            <category>Updates</category>
+        </item>
         <item>
             <title><![CDATA[Availability Overrides, finally!]]></title>
             <link>https://docs.bookinwith.me/blog/2025-07-31-availability-overrides-finally</link>
